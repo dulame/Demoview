@@ -1,0 +1,4 @@
+interface:
+  display_name: "Demoorc"
+  short_description: "Coordinate approved implementation plans by risk"
+  default_prompt: "Use $demoorc to plan or replan implementation work from an approved spec."
